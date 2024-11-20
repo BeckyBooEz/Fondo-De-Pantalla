@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html{
+    display: flex;
+    background: black;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+h1, p{
+    color: rgba(43, 235, 193, 0.603);
+    font-size: 100px;
+}
+p {
+    text-align: end;
+}
