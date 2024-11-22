@@ -3,17 +3,14 @@
     padding: 0px;
     box-sizing: border-box;
 }
-html{
+div{
     display: flex;
-    background: black;
-    align-items: center;
-    justify-content: center;
+    background-color: chartreuse;
     height: 100vh;
-}
-h1, p{
-    color: rgba(43, 235, 193, 0.603);
-    font-size: 100px;
-}
-p {
-    text-align: end;
+    width: 100vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10PX;
+    justify-content: center;
+    align-items: center;
+    font-size: 100PX;
 }
