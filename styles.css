@@ -17,5 +17,8 @@ p{
     color: aqua;
     font-size: 100px;
     background-color: rgba(0, 247, 255, 0.178);
-    border-radius: 10%;
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
 }
