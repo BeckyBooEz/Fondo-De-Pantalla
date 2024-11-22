@@ -5,12 +5,17 @@
 }
 div{
     display: flex;
-    background-color: chartreuse;
-    height: ;
-    width: 100vw;
+    background-color: rgb(19, 72, 85);
+    height: 100vh;
+    width: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 10PX;
+    margin:0px;
     justify-content: center;
-    align-items: center;
-    font-size: 100PX;
+    align-items: center;   
+}
+p{
+    color: aqua;
+    font-size: 100px;
+    background-color: rgba(0, 247, 255, 0.178);
+    border-radius: 10%;
 }
