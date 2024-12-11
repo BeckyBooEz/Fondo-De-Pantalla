@@ -53,7 +53,6 @@ section p {
 }
 
 footer {
-    width: 75%;
     display: flex;
     background-color: black;
     justify-content: space-around;
