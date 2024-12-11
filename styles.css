@@ -8,27 +8,6 @@ body {
     width: 100%;
 }
 
-section {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-
-section img {
-    width: 25%;
-}
-
-section p {
-    text-align: center;
-    width: 25%;
-    font-size: 30px;
-    font-family: "Edu AU VIC WA NT Arrows", cursive;
-    font-optical-sizing: auto;
-    font-weight: 100;
-    font-style: normal;
-}
-
 header {
     width: 100%;
 }
@@ -49,4 +28,47 @@ header ul li {
 
 header ul li span {
     font-size: 20px;
+}
+
+section {
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+section img {
+    width: 25%;
+}
+
+section p {
+    text-align: center;
+    width: 25%;
+    font-size: 30px;
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+footer {
+    width: 75%;
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+}
+
+footer article {
+    align-items: center;
+    display: flex;
+}
+
+footer a {
+    padding: 5px
+}
+
+footer svg {
+    width: 15px;
+    height: 15px;
 }
