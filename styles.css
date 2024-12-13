@@ -81,3 +81,15 @@ footer svg {
     width: 20px;
     height: 20px;
 }
+@media (max-width: 600px){
+    section{
+        background-color: black;
+        flex-direction: row;
+    }
+    section p{
+        text-align: start;
+        width: 100vw;
+        display: block;
+        background-color: rgb(64, 78, 78);
+    }
+}
